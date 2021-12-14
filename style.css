@@ -1,0 +1,25 @@
+*{padding:0px;
+margin:0px;}
+nav {background:aquamarine;}
+body {background:rgb(255, 186, 249);}
+h1 {color:rgb(255, 0, 0);}
+nav a,ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+nav {
+    background-color: aquamarine;
+    height: 25px; ;
+}
+p{line-height:2;
+    text-indent: 50px;
+    margin-left:20px;
+    margin-right:20px;
+    text-align: justify;
+    font-size:26px;}
